@@ -5,3 +5,5 @@ git status = to view files are in which state
 git add . = to upload files
 git commit -m "write message" = to give message
 git push origin main = to reflect on git
+
+git push -u origin main = gives fixed name by using -u next time we dont need to write entire command write only git push
