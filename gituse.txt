@@ -1,0 +1,5 @@
+git clone "http of repository" = to connect
+git status = to view files are in which state
+git add . = to upload files
+git commit -m "write message" = to give message
+git push origin main = to reflect on git
